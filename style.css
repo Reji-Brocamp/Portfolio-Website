@@ -211,7 +211,7 @@ a.scroll.bnr-btn i{
 /* banner */
 
 .banner-w3pvt {
-	background: url(../images/banner.jpeg) no-repeat;
+	background: url(banner.jpeg) no-repeat;
 	height: auto;
     width: 100%;
 	position: relative;
@@ -574,7 +574,7 @@ p.paragraph:after {
 
 /*-- quote --*/
 .quote{
-    background: url(../images/banner.jpg) 0px 0px;
+    background: url(banner.jpg) 0px 0px;
     background-size: cover;
     position: relative;
 }
@@ -891,7 +891,7 @@ a.move-top span{
 }
 @media(max-width:600px) {
 	.quote {
-		background: url(../images/banner.jpg) center;
+		background: url(banner.jpg) center;
 		background-size: cover;
 	}
 }
